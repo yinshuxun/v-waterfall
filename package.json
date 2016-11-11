@@ -1,0 +1,25 @@
+{
+  "name": "v-waterfall",
+  "version": "0.0.3",
+  "description": "waterfall-component",
+  "main": "index.js",
+  "keywords": [
+    "waterfall",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinshuxun/v-waterfall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yinshuxun/v-waterfall/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shuxun<>",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
