@@ -2,7 +2,7 @@
 A waterfall layout component for Vue.js(^2.0)
 
 ##Demo
--[simple demo](https://yinshuxun.github.io/road-of-vue/index.html#/waterfallflow)
+[simple demo](https://yinshuxun.github.io/road-of-vue/index.html#/waterfallflow)
 
 ##Installation
 ```shell
