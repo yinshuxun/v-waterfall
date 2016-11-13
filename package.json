@@ -1,6 +1,6 @@
 {
   "name": "v-waterfall",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "waterfall-component",
   "main": "index.js",
   "keywords": [
@@ -15,11 +15,20 @@
     "url": "https://github.com/yinshuxun/v-waterfall/issues"
   },
   "scripts": {
+    "build":"webpack --progress --config  build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "shuxun<>",
+  "homepage":"https://github.com/yinshuxun/v-waterfall",
+  "author": "shuxun <https://github.com/yinshuxun>",
   "license": "ISC",
-  "dependencies": {
-
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-runtime": "^5.8.35",
+    "vue-loader": "^9.0.0",
+    "webpack": "^2.1.0-beta.25"
   }
 }

@@ -1,4 +1,4 @@
 'use strict'
-import Waterfall from './lib/_index.vue';
+import Waterfall from './dist/waterfall.min.js';
 
 module.exports = Waterfall;
