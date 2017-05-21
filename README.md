@@ -1,4 +1,6 @@
 #v-waterfall
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yinshuxun/v-waterfall.svg)](https://greenkeeper.io/)
 A waterfall layout component for Vue.js(^2.0)
 
 ##Demo
