@@ -1,10 +1,11 @@
-#v-waterfall
+# v-waterfall
 A waterfall layout component for Vue.js(^2.0)
 
-##Demo
+## Demo
 [simple demo](https://yinshuxun.github.io/road-of-vue/index.html#/waterfallflow)
 
-##Installation
+## Installation
+
 ```shell
 npm install --save v-waterfall
 ```
